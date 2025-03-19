@@ -1,1 +1,1 @@
-# college-simulator
+# College Simulator
